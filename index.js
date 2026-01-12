@@ -1,1 +1,3 @@
 console.log("Hi this is git demo");
+console.log("Hi this is git demo");
+console.log("Hi this is git demo");
